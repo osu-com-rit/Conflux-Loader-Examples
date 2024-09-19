@@ -1,6 +1,6 @@
 # "Information Browser" Example *(Conflux Loader)*
 
-![Image of REDCap survey with embedded Information Browser example](../../docs/images/information_browser.png)
+![Image of REDCap survey with embedded Information Browser example](../images/information_browser.png)
 
 This example provides a simple static text content browser, embeddable in a
 REDCap survey or data entry form, and includes a static content searching. This

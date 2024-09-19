@@ -1,6 +1,6 @@
 # "3D Ping Pong" Example *(Conflux Loader)*
 
-![Image of REDCap survey with embedded word cloud example](../../docs/images/3d_ping_pong.png)
+![Image of REDCap survey with embedded word cloud example](../images/3d_ping_pong.png)
 
 *(a REDCap-ification of the [React Three Fiber 'Rapier Ping-pong'
 example](https://r3f.docs.pmnd.rs/getting-started/examples))*
